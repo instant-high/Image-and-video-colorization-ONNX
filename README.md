@@ -15,7 +15,15 @@ Image: python image.py --source_image "image.jpg"
 
 Video: python video.py --source "video.mp4" --result "video_colorized.mp4" --audio
 
-optional parameters:  --mode 0 or 1 (eccv16 or siggraph17) , --fp16 , --render_factor 10 (default=10)
+optional parameters:
+
+--mode 0 or 1 (eccv16 or siggraph17) default 1
+
+--fp16
+
+--render_factor 10 (default=10)
+
+--saturation 1 (0.1 - 2.0)
 
 .
 
