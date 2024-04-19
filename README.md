@@ -1,4 +1,4 @@
-# Image-and-video-colorization
+# Image-and-video-colorization ONNX
 Simple image and video colorization using onnx converted ECCV16 or SIGGRAPH17 models.
 
 Easy to install. Can be run on CPU or nVidia GPU
